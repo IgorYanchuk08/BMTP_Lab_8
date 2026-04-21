@@ -1,7 +1,7 @@
 #define _USE_MATH_DEFINES
 #include <math.h>
 #include <iostream>
-float s_calculation(float x, float y, float z)
+double s_calculation(float x, float y, float z)
 {
     float S;
     const double pi = 3.14159265358979323846;
